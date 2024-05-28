@@ -61,26 +61,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `bing/Copilot`
 
-## 👨‍💻 Expert
-
-<p>
-
-    <p>&nbsp&nbsp&nbspEduardo Freitas<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/eduardoboca">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/eduardo-freitas-ehff/">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
 ---
 
 ⌨️ por [Eduardo Freitas](https://github.com/eduardoboca)
